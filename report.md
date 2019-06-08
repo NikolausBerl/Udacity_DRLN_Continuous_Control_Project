@@ -132,6 +132,11 @@ Unexpected behaviour slowed down the project-progress:
 For example: 
 * Selections of the seed-Number.        
 * Training on GPU or CPU gets remarcable different results.
+#### Training result (Option 1, one Agent)
+For the last 100 Episodes the target of 30 was reached after 174 episodes:
+![Training Reslut](ContinousControlt_Result.PNG)
+
+
 
 ### Improvements
 #### Optimization of Hyperparameters
