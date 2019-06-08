@@ -134,7 +134,7 @@ For example:
 * Training on GPU or CPU gets remarcable different results.
 #### Training result (Option 1, one Agent)
 For the last 100 Episodes the target of 30 was reached after 174 episodes:
-![Training Reslut](ContinousControlt_Result.PNG)
+![Training Reslut](ContinousControl_Result.PNG)
 
 
 
